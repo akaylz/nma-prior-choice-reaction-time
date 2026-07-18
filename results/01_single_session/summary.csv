@@ -1,0 +1,7 @@
+contrast,contrast_label,congruency,n_trials,median_rt_ms
+0.0,0%,congruent,87,135.7373476715793
+0.0,0%,incongruent,31,148.93338120236876
+0.0625,6.25%,congruent,210,142.5437940233678
+0.0625,6.25%,incongruent,38,162.45207043050414
+0.125,12.5%,congruent,192,141.1025772586072
+0.125,12.5%,incongruent,47,140.60051107026084

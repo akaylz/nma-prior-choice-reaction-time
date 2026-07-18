@@ -1,0 +1,7 @@
+jupyterlab>=4.1
+matplotlib>=3.8
+numpy>=1.26
+ONE-api>=3.4
+pandas>=2.2
+pyarrow>=15
+remotezip>=0.12
