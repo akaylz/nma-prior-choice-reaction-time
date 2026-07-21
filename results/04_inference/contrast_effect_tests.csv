@@ -1,0 +1,2 @@
+test,comparison,n_mice,estimate_median_ms,ci95_low_ms,ci95_high_ms,statistic,p_raw,p_holm,reject_holm_0_05
+Friedman omnibus,0% vs 6.25% vs 12.5%,139,,,,1.683453237410049,0.4309657671042948,0.4309657671042948,False
