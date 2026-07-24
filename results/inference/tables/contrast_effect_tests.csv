@@ -1,0 +1,2 @@
+test,comparison,n_mice,statistic,p_raw,reject_0_05
+Friedman omnibus,0% vs 6.25% vs 12.5%,139,1.683453237410049,0.4309657671042948,False
