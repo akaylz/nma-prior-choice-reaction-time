@@ -16,6 +16,12 @@ Across 139 mice and 459 sessions, prior-incongruent choices were associated with
 
 All two-sided exact sign tests remained significant after Holm correction (`p < .001`). The numerical reduction from 20.1 to 14.0 ms should not be interpreted as a contrast-dependent trend: a repeated-measures Friedman test did not find evidence that the effect differed across contrasts (`χ² = 1.68`, `p = .431`).
 
+## Detailed paired mouse view
+
+![Detailed paired mouse reaction-time results](results/inference/figures/01_detailed_paired_mouse_results.png)
+
+Each grey line connects the prior-congruent and prior-incongruent summaries from the same mouse. Red diamonds and dotted lines show the two separate cohort condition medians and are descriptive. The lower purple diamonds show the primary median paired mouse effects.
+
 ## Definitions
 
 - **Prior-congruent choice:** the mouse chose the side favored by the current block prior.
